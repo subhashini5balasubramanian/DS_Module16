@@ -16,7 +16,7 @@ To write a C function to insert the elements in an AVL Tree.
 ```
 /*
 Program to insert the elements in an AVL Tree
-Developed by: SUBHASHIN.B    
+Developed by: SUBHASHINI.B    
 RegisterNumber: 212223040211
 */
 node* insert(node*T,int x)
